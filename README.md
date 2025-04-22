@@ -32,13 +32,13 @@ The dataset used includes features like:
 
 ### Data Preprocessing
 
-- ✅ Removed duplicate rows  
-- ✅ Imputed missing values with column means  
-- ✅ Applied `log(x + 1)` transformation to skewed features:
+- Removed duplicate rows  
+- Imputed missing values with column means  
+- Applied `log(x + 1)` transformation to skewed features:
   - Sleep duration
   - Deep sleep percentage
   - Caffeine consumption
-- ✅ Standardized features using `StandardScaler` to normalize scales
+- Standardized features using `StandardScaler` to normalize scales
 
 ---
 
@@ -65,7 +65,7 @@ This project shows that linear regression can provide meaningful insights into h
 
 ---
 
-### ✍️ Author
+### Author
 
 Helaena Lianne Saldana 
 Data Science Student @ Ateneo de Davao University
